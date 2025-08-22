@@ -23,15 +23,15 @@ Hi! I'm **Potamsetti Santhosh Reddy**, a B.Tech IT student at the Institute of A
 
 ## 📂 Project Structure
 
-📁 Personal-Portfolio/
-├── 📄 index.html
-├── 📄 style.css
-├── 📄 script.js
-├── 📁 images/
-└── 📄 README.md
+- 📁 Personal-Portfolio/
+- ├── 📄 index.html
+- ├── 📄 style.css
+- ├── 📄 script.js
+- ├── 📁 images/
+- └── 📄 README.md
 
 ## 📸 Screenshots
-![images](demo.gif)
+![demo](demo.gif)
 
 
 ## 📜 License
