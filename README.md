@@ -31,7 +31,7 @@ Hi! I'm **Potamsetti Santhosh Reddy**, a B.Tech IT student at the Institute of A
 └── 📄 README.md
 
 ## 📸 Screenshots
-![images](demo.mp4)
+![images](demo.gif)
 
 
 ## 📜 License
